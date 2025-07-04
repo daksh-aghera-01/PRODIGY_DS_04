@@ -15,8 +15,13 @@ decision-tree-bank-marketing/
 ├── notebooks/
 │   └── Task 4.ipynb
 ├── outputs/
-│   ├── 
-│   └── 
+│   ├── Overall Sentiment Distribution.png
+│   ├── Top 10 Most Discussed Topics.png
+│   ├── Sentiment Breakdown for Top 10 Topics.png
+│   ├── WorldCloud - Positive.png
+│   ├── WorldCloud - Neutral.png
+│   ├── WorldCloud - Negative.png
+│   └── WorldCloud - Irrelevant.png
 ├── requirements.txt
 └── README.md
 ```
@@ -47,7 +52,7 @@ decision-tree-bank-marketing/
    ```
 3. Open the notebook and run all cells:
    ```
-   jupyter notebook Task_4_Twitter_Sentiment_Analysis.ipynb
+   jupyter notebook Task_4.ipynb
    ```
 
 ## 🔖 Internship Info
