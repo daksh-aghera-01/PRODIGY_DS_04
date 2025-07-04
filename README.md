@@ -6,10 +6,25 @@ This project analyzes public sentiment from Twitter data related to different en
 - Source: [Kaggle - Twitter Entity Sentiment Analysis](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)
 - It includes tweet texts, entity names, and sentiment labels.
 
+## 📁 Folder Structure
+```
+decision-tree-bank-marketing/
+├── data/
+│   ├── twitter_training.csv
+│   └── twitter_validation.csv
+├── notebooks/
+│   └── Task 4.ipynb
+├── outputs/
+│   ├── 
+│   └── 
+├── requirements.txt
+└── README.md
+```
+
 ## ✅ Key Tasks
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis
-- Sentiment-wise Visualization (Bar Plot, Pie Charts, WordClouds)
+- Sentiment-wise Visualization (Bar Plot, WordClouds)
 - Entity Mention Analysis
 
 ## 📷 Visualizations
@@ -39,8 +54,3 @@ This project analyzes public sentiment from Twitter data related to different en
 This project was completed as part of my internship at **Prodigy Infotech** under the task title:  
 **"Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands."**
 
----
-
-## 📌 Author
-- **Name**: Daksh Aghera  
-- **GitHub**: [github.com/daksh-aghera-01](https://github.com/daksh-aghera-01)
